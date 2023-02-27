@@ -2,7 +2,7 @@
 
 Olá, eu sou o Felipe Delgado  
 
-## Atualmente esudando
+## Atualmente estudando
 
 - Git e GitHub
 -  Front end 
